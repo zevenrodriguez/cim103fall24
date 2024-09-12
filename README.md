@@ -1,3 +1,3 @@
 # cim103fall24
 
-my url: 
+my url: http://www.zevenrodriguez.com/cim103fall24/
